@@ -4,4 +4,4 @@ if((type(a)=='int'or'float') and (type(b)=='int'or'float')):
 	div=a/b
 	print("The division is:",div)
 else:
-	print(The numbers are not the real numbers")
+	print("The numbers are not the real numbers")
